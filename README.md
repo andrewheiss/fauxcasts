@@ -4,7 +4,7 @@
 
 Libraries often have large collections of audiobooks on CDs. However, I don't listen to anything on CDs anymore—I actually only have one device with an optical drive anymore (an ancient Mac Mini). 
 
-I use an iPhone or iPad to listen to everything, and getting these CDs onto these devices is trivial. However, playing audiobooks through Apple's native music app feels somewhat limited. I'm a huge fan of modern podcasting apps like [Overcast](https://overcast.fm/) that speed up podcasts intelligibly (Smart Speed!). Wouldn't it be fantastic to listen to CD-based audiobooks in [Overcast](https://overcast.fm/), [Downcast](http://www.downcastapp.com/),[Pocketcasts](http://www.shiftyjelly.com/pocketcasts), or whatever your favorite app is?
+I use an iPhone or iPad to listen to everything, and getting these CDs onto these devices is trivial. However, playing audiobooks through Apple's native music app feels somewhat limited. I'm a huge fan of modern podcasting apps like [Overcast](https://overcast.fm/) that speed up podcasts intelligibly (Smart Speed!). Wouldn't it be fantastic to listen to CD-based audiobooks in [Overcast](https://overcast.fm/), [Downcast](http://www.downcastapp.com/), [Pocketcasts](http://www.shiftyjelly.com/pocketcasts), or whatever your favorite app is?
 
 This little script lets you do that!
 
