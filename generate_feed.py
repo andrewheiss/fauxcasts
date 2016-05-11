@@ -63,7 +63,7 @@ fg.podcast.itunes_complete(True)
 
 
 # Loop through each MP3 and add it to the feed as an episode
-for i, track in enumerate(glob.glob(local_location)):
+for i, track in enumerate(sorted(glob.glob(local_location))):
     # Some podcast players respect the itunes_order attribute, which is set
     # below, but many only look at the date and time of the episode. So, here
     # we pretend that the first episode happened 7 days ago, and each
